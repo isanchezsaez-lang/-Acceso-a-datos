@@ -231,7 +231,6 @@ public class Main {
                     año = Integer.parseInt(extraerDatos(linea, "año"));
                 } else if (linea.contains("<genero>")) {
                     genero = extraerDatos(linea, "genero");
-                    // Cuando tenemos el género, creamos la película
                     Pelicula p = new Pelicula(id, titulo, director, año, genero);
                     peliculas.add(p);
                 }
