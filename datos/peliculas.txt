@@ -1,0 +1,45 @@
+1|Interstellar|Christopher Nolan|2014|Ciencia ficción
+2|El Padrino|Francis Ford Coppola|1972|Drama
+3|Matrix|Lana Wachowski|1999|Ciencia ficción
+4|Parásitos|Bong Joon-ho|2019|Drama
+5|Toy Story|John Lasseter|1995|Animación
+6|Pulp Fiction|Quentin Tarantino|1994|Crimen
+7|El señor de los anillos: El retorno del rey|Peter Jackson|2003|Ciencia ficción
+8|Origen|Christopher Nolan|2010|Ciencia ficción
+9|La lista de Schindler|Steven Spielberg|1993|Drama
+10|El club de la lucha|David Fincher|1999|Drama
+11|El viaje de Chihiro|Hayao Miyazaki|2001|Animación
+12|Gladiator|Ridley Scott|2000|Acción
+13|Spirited Away|Hayao Miyazaki|2001|Animación
+14|Cadena perpetua|Frank Darabont|1994|Drama
+15|El resplandor|Stanley Kubrick|1980|Terror
+16|La vida es bella|Roberto Benigni|1997|Drama
+17|Blade Runner 2049|Denis Villeneuve|2017|Ciencia ficción
+18|El silencio de los corderos|Jonathan Demme|1991|Crimen
+19|Coco|Lee Unkrich|2017|Animación
+20|El caballero oscuro|Christopher Nolan|2008|Acción
+21|Pinocho de Guillermo del Toro|Guillermo del Toro|2022|Animación
+22|Whiplash|Damien Chazelle|2014|Drama
+23|WALL-E|Andrew Stanton|2008|Animación
+24|Salvar al soldado Ryan|Steven Spielberg|1998|Drama
+25|Psicosis|Alfred Hitchcock|1960|Terror
+26|Uno de los nuestros|Martin Scorsese|1990|Crimen
+27|Alien, el octavo pasajero|Ridley Scott|1979|Ciencia ficción
+28|El truco final (El prestigio)|Christopher Nolan|2006|Misterio
+29|Delrevés (Inside Out)|Pete Docter|2015|Animación
+30|La la land|Damien Chazelle|2016|Romance
+31|Infiltrados|Martin Scorsese|2006|Crimen
+32|Terminator 2: El juicio final|James Cameron|1991|Acción
+33|El gran hotel Budapest|Wes Anderson|2014|Comedia
+34|Amélie|Jean-Pierre Jeunet|2001|Comedia
+35|Dune|Denis Villeneuve|2021|Ciencia ficción
+36|Oppenheimer|Christopher Nolan|2023|Drama                                                                                                                                       
+37|Dune: Parte Dos|Denis Villeneuve|2024|Ciencia ficción                                                                                                                          
+38|Killers of the Flower Moon|Martin Scorsese|2023|Drama                                                                                                                          
+39|Barbie|Greta Gerwig|2023|Comedia                                                                                                                                               
+40|Opción Múltiple|Antonio Banderas|2022|Thriller                                                                                                                                 
+41|Everything Everywhere All at Once|Daniel Kwan|2022|Ciencia ficción                                                                                                             
+42|Top Gun: Maverick|Joseph Kosinski|2022|Acció
+43|Avatar: El Camino del Agua|James Cameron|2022|Ciencia ficción                                                                                                                  
+44|Guardians of the Galaxy Vol. 3|James Gunn|2023|Acción                                                                                                                          
+45|Killers of the Flower Moon|Martin Scorsese|2023|Drama

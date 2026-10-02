@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+        <pelicula>
+            <id>1</id>
+            <titulo>Interstellar</titulo>
+            <director>Christopher Nolan</director>
+            <año>2014</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>2</id>
+            <titulo>El Padrino</titulo>
+            <director>Francis Ford Coppola</director>
+            <año>1972</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>3</id>
+            <titulo>Matrix</titulo>
+            <director>Lana Wachowski</director>
+            <año>1999</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>4</id>
+            <titulo>Parásitos</titulo>
+            <director>Bong Joon-ho</director>
+            <año>2019</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>5</id>
+            <titulo>Toy Story</titulo>
+            <director>John Lasseter</director>
+            <año>1995</año>
+            <genero>Animación</genero>
+        </pelicula>
+        <pelicula>
+            <id>6</id>
+            <titulo>Pulp Fiction</titulo>
+            <director>Quentin Tarantino</director>
+            <año>1994</año>
+            <genero>Crimen</genero>
+        </pelicula>
+        <pelicula>
+            <id>7</id>
+            <titulo>El señor de los anillos: El retorno del rey</titulo>
+            <director>Peter Jackson</director>
+            <año>2003</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>8</id>
+            <titulo>Origen</titulo>
+            <director>Christopher Nolan</director>
+            <año>2010</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>9</id>
+            <titulo>La lista de Schindler</titulo>
+            <director>Steven Spielberg</director>
+            <año>1993</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>10</id>
+            <titulo>El club de la lucha</titulo>
+            <director>David Fincher</director>
+            <año>1999</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>11</id>
+            <titulo>El viaje de Chihiro</titulo>
+            <director>Hayao Miyazaki</director>
+            <año>2001</año>
+            <genero>Animación</genero>
+        </pelicula>
+        <pelicula>
+            <id>12</id>
+            <titulo>Gladiator</titulo>
+            <director>Ridley Scott</director>
+            <año>2000</año>
+            <genero>Acción</genero>
+        </pelicula>
+        <pelicula>
+            <id>13</id>
+            <titulo>Spirited Away</titulo>
+            <director>Hayao Miyazaki</director>
+            <año>2001</año>
+            <genero>Animación</genero>
+        </pelicula>
+        <pelicula>
+            <id>14</id>
+            <titulo>Cadena perpetua</titulo>
+            <director>Frank Darabont</director>
+            <año>1994</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>15</id>
+            <titulo>El resplandor</titulo>
+            <director>Stanley Kubrick</director>
+            <año>1980</año>
+            <genero>Terror</genero>
+        </pelicula>
+        <pelicula>
+            <id>16</id>
+            <titulo>La vida es bella</titulo>
+            <director>Roberto Benigni</director>
+            <año>1997</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>17</id>
+            <titulo>Blade Runner 2049</titulo>
+            <director>Denis Villeneuve</director>
+            <año>2017</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>18</id>
+            <titulo>El silencio de los corderos</titulo>
+            <director>Jonathan Demme</director>
+            <año>1991</año>
+            <genero>Crimen</genero>
+        </pelicula>
+        <pelicula>
+            <id>19</id>
+            <titulo>Coco</titulo>
+            <director>Lee Unkrich</director>
+            <año>2017</año>
+            <genero>Animación</genero>
+        </pelicula>
+        <pelicula>
+            <id>20</id>
+            <titulo>El caballero oscuro</titulo>
+            <director>Christopher Nolan</director>
+            <año>2008</año>
+            <genero>Acción</genero>
+        </pelicula>
+        <pelicula>
+            <id>21</id>
+            <titulo>Pinocho de Guillermo del Toro</titulo>
+            <director>Guillermo del Toro</director>
+            <año>2022</año>
+            <genero>Animación</genero>
+        </pelicula>
+        <pelicula>
+            <id>22</id>
+            <titulo>Whiplash</titulo>
+            <director>Damien Chazelle</director>
+            <año>2014</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>23</id>
+            <titulo>WALL-E</titulo>
+            <director>Andrew Stanton</director>
+            <año>2008</año>
+            <genero>Animación</genero>
+        </pelicula>
+        <pelicula>
+            <id>24</id>
+            <titulo>Salvar al soldado Ryan</titulo>
+            <director>Steven Spielberg</director>
+            <año>1998</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>25</id>
+            <titulo>Psicosis</titulo>
+            <director>Alfred Hitchcock</director>
+            <año>1960</año>
+            <genero>Terror</genero>
+        </pelicula>
+        <pelicula>
+            <id>26</id>
+            <titulo>Uno de los nuestros</titulo>
+            <director>Martin Scorsese</director>
+            <año>1990</año>
+            <genero>Crimen</genero>
+        </pelicula>
+        <pelicula>
+            <id>27</id>
+            <titulo>Alien, el octavo pasajero</titulo>
+            <director>Ridley Scott</director>
+            <año>1979</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>28</id>
+            <titulo>El truco final (El prestigio)</titulo>
+            <director>Christopher Nolan</director>
+            <año>2006</año>
+            <genero>Misterio</genero>
+        </pelicula>
+        <pelicula>
+            <id>29</id>
+            <titulo>Delrevés (Inside Out)</titulo>
+            <director>Pete Docter</director>
+            <año>2015</año>
+            <genero>Animación</genero>
+        </pelicula>
+        <pelicula>
+            <id>30</id>
+            <titulo>La la land</titulo>
+            <director>Damien Chazelle</director>
+            <año>2016</año>
+            <genero>Romance</genero>
+        </pelicula>
+        <pelicula>
+            <id>31</id>
+            <titulo>Infiltrados</titulo>
+            <director>Martin Scorsese</director>
+            <año>2006</año>
+            <genero>Crimen</genero>
+        </pelicula>
+        <pelicula>
+            <id>32</id>
+            <titulo>Terminator 2: El juicio final</titulo>
+            <director>James Cameron</director>
+            <año>1991</año>
+            <genero>Acción</genero>
+        </pelicula>
+        <pelicula>
+            <id>33</id>
+            <titulo>El gran hotel Budapest</titulo>
+            <director>Wes Anderson</director>
+            <año>2014</año>
+            <genero>Comedia</genero>
+        </pelicula>
+        <pelicula>
+            <id>34</id>
+            <titulo>Amélie</titulo>
+            <director>Jean-Pierre Jeunet</director>
+            <año>2001</año>
+            <genero>Comedia</genero>
+        </pelicula>
+        <pelicula>
+            <id>35</id>
+            <titulo>Dune</titulo>
+            <director>Denis Villeneuve</director>
+            <año>2021</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>36</id>
+            <titulo>Oppenheimer</titulo>
+            <director>Christopher Nolan</director>
+            <año>2023</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>37</id>
+            <titulo>Dune: Parte Dos</titulo>
+            <director>Denis Villeneuve</director>
+            <año>2024</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>38</id>
+            <titulo>Killers of the Flower Moon</titulo>
+            <director>Martin Scorsese</director>
+            <año>2023</año>
+            <genero>Drama</genero>
+        </pelicula>
+        <pelicula>
+            <id>39</id>
+            <titulo>Barbie</titulo>
+            <director>Greta Gerwig</director>
+            <año>2023</año>
+            <genero>Comedia</genero>
+        </pelicula>
+        <pelicula>
+            <id>40</id>
+            <titulo>Opción Múltiple</titulo>
+            <director>Antonio Banderas</director>
+            <año>2022</año>
+            <genero>Thriller</genero>
+        </pelicula>
+        <pelicula>
+            <id>41</id>
+            <titulo>Everything Everywhere All at Once</titulo>
+            <director>Daniel Kwan</director>
+            <año>2022</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>42</id>
+            <titulo>Top Gun: Maverick</titulo>
+            <director>Joseph Kosinski</director>
+            <año>2022</año>
+            <genero>Acció</genero>
+        </pelicula>
+        <pelicula>
+            <id>43</id>
+            <titulo>Avatar: El Camino del Agua</titulo>
+            <director>James Cameron</director>
+            <año>2022</año>
+            <genero>Ciencia ficción</genero>
+        </pelicula>
+        <pelicula>
+            <id>44</id>
+            <titulo>Guardians of the Galaxy Vol. 3</titulo>
+            <director>James Gunn</director>
+            <año>2023</año>
+            <genero>Acción</genero>
+        </pelicula>
+        <pelicula>
+            <id>45</id>
+            <titulo>Killers of the Flower Moon</titulo>
+            <director>Martin Scorsese</director>
+            <año>2023</año>
+            <genero>Drama</genero>
+        </pelicula>
+</peliculas>
